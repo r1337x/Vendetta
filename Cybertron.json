@@ -1,0 +1,50 @@
+{
+	"name": "Cybertron",
+	"description": "Remake of Kiv's theme!",
+	"authors": [
+        	{
+			"name": "Kiv#1263",
+			"id": "292969022390009867"
+		}
+	],
+	"spec": 2,
+	"semanticColors": { 
+		"HEADER_PRIMARY":  ["#419E85", "#419E85", "#419E85"], 
+		"HEADER_SECONDARY": ["#419E85", "#419E85", "#419E85"],
+		"MENTION_BACKGROUND": ["#419E85", "#419E85", "#419E85"],
+		"INTERACTIVE_NORMAL": ["#419E85", "#419E85", "#419E85"],
+		"BACKGROUND_MODIFIER_ACTIVE": ["#419E85", "#419E85", "#419E85"],
+		"BACKGROUND_MENTION": ["#419E85", "#419E85", "#419E85"],
+		"BACKGROUND_ACCENT": ["#419E85", "#419E85", "#419E85"],
+		"INTERACTIVE_MUTED": ["#242E42", "#242E42", "#242E42"], 
+		"TEXT_LINK": ["#40C7A3", "#40C7A3", "#40C7A3"],
+		"CHAT_BACKGROUND": ["#02081E", "#02081E", "#02081E"],
+		"BACKGROUND_MOBILE_PRIMARY": ["#02081E", "#02081E", "#02081E"],
+		"BACKGROUND_MOBILE_SECONDARY": ["#02081E", "#02081E", "#02081E"],
+		"BACKGROUND_MODIFIER_ACCENT": ["#4DB291", "#4DB291", "#4DB291"],
+		"BACKGROUND_FLOATING": ["#02081E", "#02081E", "#02081E"],
+		"BACKGROUND_TERTIARY": ["#02081E", "#02081E", "#02081E"],
+		"BACKGROUND_SECONDARY": ["#000206", "#000206", "#000206"],
+		"TEXTBOX_MARKDOWN_SYNTAX": ["#000206", "#000206", "#000206"],
+		"CHANNELS_DEFAULT": ["#496CB2", "#496CB2", "#496CB2"]
+	},
+	"rawColors": {
+		"PRIMARY_100": "#496CB2",
+		"PRIMARY_200": "#419E85",
+		"PRIMARY_660": "#000206",
+		"PRIMARY_600": "#000206",
+		"PRIMARY_700": "#000206",
+		"BRAND_260": "#419E85",
+		"BRAND_360": "#496CB2",
+		"BRAND_500": "#419E85",
+		"BRAND_560": "#419E85",
+		"YELLOW_300": "#419E85",
+		"RED_400": "#419E85"
+	},
+  	"background": {
+		"blur": 0,
+		"url": "",
+		"alpha": 0.40
+    "color": "#02081E"
+	}
+}
